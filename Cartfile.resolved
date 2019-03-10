@@ -1,4 +1,4 @@
-github "CocoaLumberjack/CocoaLumberjack" "3.4.2"
+github "CocoaLumberjack/CocoaLumberjack" "3.5.1"
 github "behrang/YamlSwift" "3.4.3"
 github "lexrus/MMDB-Swift" "0.2.9"
 github "robbiehanson/CocoaAsyncSocket" "7.6.3"

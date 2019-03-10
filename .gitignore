@@ -15,7 +15,7 @@ DerivedData/
 ._*
 .Spotlight-V100
 .Trashes
-Icon?
+#Icon?
 ehthumbs.db
 Thumbs.db
 ####################################
@@ -32,7 +32,7 @@ Thumbs.db
 ############# xcode #############
 ####################################
 *.xcuserstate
-project.xcworkspace
+#project.xcworkspace
 xcuserdata
 UserInterfaceState.xcuserstate
 project.xcworkspace/
